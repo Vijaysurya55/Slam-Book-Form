@@ -3,7 +3,7 @@ class Apple extends Component {
     render(){
         return(
             <div>
-                <img src="https://www.ampimex.in/wp-content/uploads/2021/02/apples-.jpg" alt="apple" />
+                {/* <img src="https://www.ampimex.in/wp-content/uploads/2021/02/apples-.jpg" alt="apple" /> */}
             </div>
         )
     }
