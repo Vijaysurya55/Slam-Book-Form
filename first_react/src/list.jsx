@@ -14,11 +14,11 @@ function List() {
         </li>
         <li>
           Vegetables
-          <ul className="custom-bullet-circle">
+          <ol type='i'>
             <li>Carrot</li>
             <li>Beetroot</li>
             <li>Beans</li>
-          </ul>
+          </ol>
         </li>
         <li>
           Birds

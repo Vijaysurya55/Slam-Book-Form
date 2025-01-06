@@ -4,12 +4,6 @@
     margin-right: 10px;
   }
   
-  .custom-bullet-circle li::before {
-    content: "○";
-    color: green;
-    margin-right: 10px;
-  }
-  
   .custom-bullet-hash li::before {
     content: "#";
     color: blue;
